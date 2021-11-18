@@ -8,6 +8,7 @@ pip install pywhatkit
 <img width="922" alt="g2" src="https://user-images.githubusercontent.com/91727830/142343477-0e89eef7-6889-431f-8653-d590973e35df.png">
 
 
-NOTE: Whatsapp web show be opened in any browser in order to send message.
+
+# NOTE: Whatsapp web show be opened in any browser in order to send message.
 
 "https://pypi.org/project/pywhatkit/" Official description of pywhatkit
